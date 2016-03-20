@@ -1,0 +1,67 @@
+*{
+	color: #000;
+	text-align: center; 
+
+}
+
+body {
+	background-color: #000;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+	/*background-color: #000; */
+	margin: 50px auto;
+    width: 70%;
+    height: 700px; 
+    border: 4px solid #000;
+    border-radius: 20px; 
+    padding: 10px;
+    text-align: center; 
+    box-shadow: 5px 5px 5px #777; 
+}
+
+#header h1  {
+	margin: 20px;
+	padding: 20px;
+	font-size: 65px; 
+}
+
+.city   {
+	margin: 10px auto;
+	padding: 10px;
+	display: block;
+	font-size: 35px; 
+}
+.temperature{
+	margin: 10px auto;
+	padding: 10px;
+	display: block;
+}
+.weather-action{
+	margin: 10px auto;
+	padding: 10px;
+	display: block;
+}
+.icon {
+	margin: 10px auto;
+	padding: 10px;
+	display: block;
+}
+
+
+footer small {
+	margin: 10px;
+	padding: 10px; 
+	font-size: 20px; 
+	color: #fff;
+}
+
+
+/*#main {
+    height: 200px;
+    width: 300px;
+    position: absolute;
+    left: 30px;
+    top: 30px;
+}*/
